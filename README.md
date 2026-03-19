@@ -40,7 +40,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Aditk1
-- LinkedIn: (add your link)
+- LinkedIn: www.linkedin.com/in/aditya-kokate-6654b4248
 
 ---
 
