@@ -45,3 +45,6 @@
 ---
 
 ⭐ *Always learning, building, and improving.*
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditk1&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditk1&layout=compact)
