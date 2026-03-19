@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Aditya Kokate 👋  
 
-<!--
-**Aditk1/Aditk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Engineering Student  
+💡 Interested in AI, Business Intelligence & Full Stack Development  
+🚀 Building real-world AI + NLP projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 Languages: Python, JavaScript, SQL  
+- 🌐 Web: React, Node.js, Express  
+- 🤖 AI/ML: NLP, Transformers, spaCy  
+- 📊 BI & Data: Power BI, Tableau, Pandas  
+- 🛢️ Databases: MySQL, MongoDB  
+
+---
+
+## 🚀 Projects
+
+### 🔹 SQL AI Assistant
+> Convert natural language to SQL queries using NLP  
+- Tech: Python, Transformers, MySQL  
+
+### 🔹 StudyPoint (AI Learning Platform)
+> Personalized learning with summarization + NLP  
+- Tech: React, Flask, NLP  
+
+### 🔹 EduSum (Studymines)
+> Multimodal summarization using OCR + NLP  
+- Tech: Python, SAOCR  
+
+---
+
+## 📈 Current Focus
+- Building production-level AI applications  
+- Improving full-stack + system design skills  
+- Preparing for internships & placements  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Aditk1
+- LinkedIn: (add your link)
+
+---
+
+⭐ *Always learning, building, and improving.*
