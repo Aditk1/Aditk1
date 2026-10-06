@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Kokate 👋  
 
-🎓 Final Year Computer Engineering Student  
+🎓 Computer Engineer  
 💡 Interested in AI, Business Intelligence & Full Stack Development  
 🚀 Building real-world AI + NLP projects  
 
